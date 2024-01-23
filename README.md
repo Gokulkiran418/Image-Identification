@@ -5,7 +5,7 @@ Creates the model.
  Change file path like this if you want to save the model somewhere else
  model.save('G:\\file\\path\\toSave\\cifar10_model.h5')
 ## predict.py
- This is just an additional function I added.
+ This is just an additional program I added.
   You can load any image that relates to the classes in cifar 10 dataset.
   (airplane,automobile,bird,cat,deer,dog,frog,horse,ship,truck).
   When you run the code it predicts and prints the class of image.
